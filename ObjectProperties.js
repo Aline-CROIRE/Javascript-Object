@@ -6,7 +6,7 @@ let student={
 };
 console.log(student)//this is to display student object
 //acessing values in object
-let studenAge=student.age;
+let studentAge=student.age;
 console.log(studentAge);
 //updating object values
 student.grade='B';
